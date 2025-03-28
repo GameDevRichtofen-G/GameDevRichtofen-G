@@ -1,5 +1,5 @@
 # Who are you?
-Hi there,I am Eddie.<br>I've been game developer for over 8 years, made game in multiple<br>different engines, worked with tons of different programming languages.
+Hi there,I am Eddie.<br>I've been game developer for over 5 years, made game in multiple<br>different engines, worked with tons of different programming languages.
 
 
 
