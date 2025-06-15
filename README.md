@@ -1,4 +1,4 @@
-![Unreal Engine](https://github.com/GameDevRichtofen-G/GameDevRichtofen-G/blob/main/slide_one.gif) 
+
 
 
 # ABOUT ME :D
